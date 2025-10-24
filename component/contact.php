@@ -21,23 +21,23 @@
 <!-- End Contact Us -->
 
 <!-- Start Details And Form -->
-<div class="bg-black pb-8">
+<div class="bg-black pb-8 pt-8">
   <div class="w-full max-w-[1320px] px-5 mx-auto">
     <div class="grid grid-cols-12 lg:gap-5 gap-3">
 
       <!-- Start Details -->
       <div class="lg:col-span-5 col-span-12">
-        <div class="bg-white p-4 mb-3">
+        <div class="bg-white p-4 mb-3 rounded-md">
           <i class="fa-solid fa-phone-volume text-2xl mb-3 text-brand-blue"></i>
           <p class="text-black text-lg font-bold">Contact:</p>
         </div>
 
-        <div class="bg-white p-4 mb-3">
+        <div class="bg-white p-4 mb-3 rounded-md">
           <i class="fa-solid fa-envelope text-2xl mb-3 text-brand-blue"></i>
           <p class="text-black text-lg font-bold">Email:</p>
         </div>
 
-        <div class="bg-white p-4">
+        <div class="bg-white p-4 rounded-md">
           <i class="fa-solid fa-location-dot text-2xl mb-3 text-brand-blue"></i>
           <p class="text-black text-lg font-bold">Location:</p>
         </div>
@@ -60,7 +60,7 @@
 
       <!-- Start Form -->
       <div class="lg:col-span-7 col-span-12">
-        <div class="bg-gray-200 sm:p-8 p-4 shadow-md w-full">
+        <div class="bg-gray-200 rounded-md sm:p-8 p-4 shadow-md w-full">
           <form class="space-y-4">
             <div class="grid grid-cols-2 gap-4">
               <input
