@@ -9,7 +9,13 @@
 
   <div class="mt-18 px-4 w-full max-w-[1320px]">
     <h1
-      class="xl:text-7xl/[85px] lg:text-6xl/[65px] md:text-5xl/[60px] sm:text-4xl/[50px] text-3xl/[45px] font-bold text-white text-center">
+      class="xl:text-7xl/[85px] lg:text-6xl/[65px] md:text-5xl/[60px] sm:text-4xl/[50px] text-3xl/[45px] font-bold text-white text-center sm:block hidden">
+      Empowering the Future of Play <br />
+      through Innovation and Technology
+    </h1>
+
+    <h1
+      class="xl:text-7xl/[85px] lg:text-6xl/[65px] md:text-5xl/[60px] sm:text-4xl/[50px] text-3xl/[45px] font-bold text-white text-center sm:hidden block">
       Empowering the Future of Play <br />
       through Innovation and Technology
     </h1>

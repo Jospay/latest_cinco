@@ -46,13 +46,13 @@
           <p class="text-3xl text-white pt-5">Follow Us on</p>
           <div class="flex gap-5 pt-4">
             <img src="src/assets/fb.png" class="h-[48px]" alt="" />
+            <img src="src/assets/yt.png" class="h-[48px]" alt="" />
             <img src="src/assets/insta.png" class="h-[48px]" alt="" />
             <img
               src="src/assets/x.png"
               class="h-[48px] border-2 border-white rounded-full"
               alt="" />
             <img src="src/assets/tiktok.png" class="h-[48px]" alt="" />
-            <img src="src/assets/yt.png" class="h-[48px]" alt="" />
           </div>
         </div>
       </div>
@@ -95,15 +95,15 @@
 
         <div class="lg:hidden block">
           <p class="text-3xl text-white pt-5">Follow Us on</p>
-          <div class="flex gap-5 pt-4">
+          <div class="flex sm:gap-5 gap-3 pt-4">
             <img src="src/assets/fb.png" class="h-[48px]" alt="" />
+            <img src="src/assets/yt.png" class="h-[48px]" alt="" />
             <img src="src/assets/insta.png" class="h-[48px]" alt="" />
             <img
               src="src/assets/x.png"
               class="h-[48px] border-2 border-white rounded-full"
               alt="" />
             <img src="src/assets/tiktok.png" class="h-[48px]" alt="" />
-            <img src="src/assets/yt.png" class="h-[48px]" alt="" />
           </div>
         </div>
       </div>

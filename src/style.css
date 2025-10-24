@@ -24,8 +24,8 @@
       }
 
       .mobile-link.active {
-        background-color: #f3f4f6 !important;
-        color: #147cc3 !important;
+        background-color: #00b900 !important;
+        color: white !important;
       }
 
       @media only screen and (max-width: 400px) {

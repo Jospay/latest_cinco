@@ -99,7 +99,7 @@
             <div class="xl:hidden">
                 <button
                     id="menu-btn"
-                    class="text-gray-700 hover:text-brand-blue focus:outline-none">
+                    class="text-brand-blue hover:text-brand-blue focus:outline-none">
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         class="h-6 w-6"
@@ -124,28 +124,28 @@
         class="hidden xl:hidden bg-black border-t border-gray-200 py-3">
         <a
             href="#home"
-            class="mobile-link block px-4 py-2 text-gray-700 hover:bg-gray-100">Home</a>
+            class="mobile-link block px-4 py-2 text-brand-blue hover:text-gray-100 hover:bg-brand-green">Home</a>
         <a
             href="#aboutus"
-            class="mobile-link block px-4 py-2 text-gray-700 hover:bg-gray-100">About</a>
+            class="mobile-link block px-4 py-2 text-brand-blue hover:bg-brand-green">About</a>
         <a
             href="#services"
-            class="mobile-link block px-4 py-2 text-gray-700 hover:bg-gray-100">Services</a>
+            class="mobile-link block px-4 py-2 text-brand-blue hover:bg-brand-green">Services</a>
         <a
             href="#technology"
-            class="mobile-link block px-4 py-2 text-gray-700 hover:bg-gray-100">Technology</a>
+            class="mobile-link block px-4 py-2 text-brand-blue hover:bg-brand-green">Technology</a>
         <a
             href="#portfolio"
-            class="mobile-link block px-4 py-2 text-gray-700 hover:bg-gray-100">Portfolio</a>
+            class="mobile-link block px-4 py-2 text-brand-blue hover:bg-brand-green">Portfolio</a>
         <a
             href="#careers"
-            class="mobile-link block px-4 py-2 text-gray-700 hover:bg-gray-100">Careers</a>
+            class="mobile-link block px-4 py-2 text-brand-blue hover:bg-brand-green">Careers</a>
         <a
             href="#new"
-            class="mobile-link block px-4 py-2 text-gray-700 hover:bg-gray-100">New & Insights</a>
+            class="mobile-link block px-4 py-2 text-brand-blue hover:bg-brand-green">New & Insights</a>
         <a
             href="#contact"
-            class="mobile-link block px-4 py-2 text-gray-700 hover:bg-gray-100">Contact Us</a>
+            class="mobile-link block px-4 py-2 text-brand-blue hover:bg-brand-green">Contact Us</a>
 
         <button class="bg-brand-blue text-white px-5 py-1 rounded ms-3 mt-3 mb-2">
             Join Our Team
