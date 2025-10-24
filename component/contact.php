@@ -51,7 +51,8 @@
               src="src/assets/x.png"
               class="h-[48px] border-2 border-white rounded-full"
               alt="" />
-            <img src="src/assets/in.png" class="h-[48px]" alt="" />
+            <img src="src/assets/tiktok.png" class="h-[48px]" alt="" />
+            <img src="src/assets/yt.png" class="h-[48px]" alt="" />
           </div>
         </div>
       </div>
@@ -101,7 +102,8 @@
               src="src/assets/x.png"
               class="h-[48px] border-2 border-white rounded-full"
               alt="" />
-            <img src="src/assets/in.png" class="h-[48px]" alt="" />
+            <img src="src/assets/tiktok.png" class="h-[48px]" alt="" />
+            <img src="src/assets/yt.png" class="h-[48px]" alt="" />
           </div>
         </div>
       </div>
