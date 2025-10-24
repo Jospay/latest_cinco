@@ -45,7 +45,7 @@
         <div class="lg:block hidden">
           <p class="text-3xl text-white pt-5">Follow Us on</p>
           <div class="flex gap-5 pt-4">
-            <img src="src/assets/fb.png" class="h-[48px]" alt="" />
+            <a href="https://www.facebook.com/profile.php?id=61582641307025" target="_blank"><img src="src/assets/fb.png" class="h-[48px]" alt="" /></a>
             <img src="src/assets/yt.png" class="h-[48px]" alt="" />
             <img src="src/assets/insta.png" class="h-[48px]" alt="" />
             <img
@@ -96,7 +96,7 @@
         <div class="lg:hidden block">
           <p class="text-3xl text-white pt-5">Follow Us on</p>
           <div class="flex sm:gap-5 gap-3 pt-4">
-            <img src="src/assets/fb.png" class="h-[48px]" alt="" />
+            <a href="https://www.facebook.com/profile.php?id=61582641307025" target="_blank"><img src="src/assets/fb.png" class="h-[48px]" alt="" /></a>
             <img src="src/assets/yt.png" class="h-[48px]" alt="" />
             <img src="src/assets/insta.png" class="h-[48px]" alt="" />
             <img
