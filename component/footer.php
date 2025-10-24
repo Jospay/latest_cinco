@@ -79,6 +79,6 @@
 
 <!-- Start All Rights Reserved -->
 <div class="bg-brand-blue py-2 text-white text-center text-lg">
-  <p>© 2025 Cinco Digital Inc. All Rights Reserved.</p>
+  <p>© 2025 Cinco Digital Inc. All Rights Reserved..</p>
 </div>
 <!-- End All Rights Reserved -->
