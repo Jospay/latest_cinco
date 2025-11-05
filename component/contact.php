@@ -29,30 +29,27 @@
       <div class="lg:col-span-5 col-span-12">
         <div class="bg-white p-4 mb-3 rounded-md">
           <i class="fa-solid fa-phone-volume text-2xl mb-3 text-brand-blue"></i>
-          <p class="text-black text-lg font-bold">Contact:</p>
+          <p class="text-black text-lg"><span class="font-bold">Contact:</span> +63 289320234</p>
         </div>
 
         <div class="bg-white p-4 mb-3 rounded-md">
           <i class="fa-solid fa-envelope text-2xl mb-3 text-brand-blue"></i>
-          <p class="text-black text-lg font-bold">Email:</p>
+          <p class="text-black text-lg"><span class="font-bold">Email:</span> info@cincodigitalph.com</p>
         </div>
 
         <div class="bg-white p-4 rounded-md">
           <i class="fa-solid fa-location-dot text-2xl mb-3 text-brand-blue"></i>
-          <p class="text-black text-lg font-bold">Location:</p>
+          <p class="text-black text-lg"><span class="font-bold">Location:</span> 85 Dona Justina St. Filinvest 2, Batasan Hills, Quezon City. Philippines</p>
         </div>
 
         <div class="lg:block hidden">
           <p class="text-3xl text-white pt-5">Follow Us on</p>
           <div class="flex gap-5 pt-4">
             <a href="https://www.facebook.com/profile.php?id=61582641307025" target="_blank"><img src="src/assets/fb.png" class="h-[48px]" alt="" /></a>
-            <img src="src/assets/yt.png" class="h-[48px]" alt="" />
-            <img src="src/assets/insta.png" class="h-[48px]" alt="" />
-            <img
-              src="src/assets/x.png"
-              class="h-[48px] border-2 border-white rounded-full"
-              alt="" />
-            <img src="src/assets/tiktok.png" class="h-[48px]" alt="" />
+            <a href="https://www.youtube.com/@zharpbodyzmultimedia3942" target="_blank"><img src="src/assets/yt.png" class="h-[48px]" alt="" /></a>
+            <a href="https://www.instagram.com/cincodigitalinc/" target="_blank"><img src="src/assets/insta.png" class="h-[48px]" alt="" /></a>
+            <!-- <a href="https://www.facebook.com/profile.php?id=61582641307025" target="_blank"><img src="src/assets/x.png" class="h-[48px] border-2 border-white rounded-full" alt="" /></a> -->
+            <a href="https://www.tiktok.com/@cincodigitalinc?is_from_webapp=1&sender_device=pc" target="_blank"><img src="src/assets/tiktok.png" class="h-[48px]" alt="" /></a>
           </div>
         </div>
       </div>
@@ -97,13 +94,10 @@
           <p class="text-3xl text-white pt-5">Follow Us on</p>
           <div class="flex sm:gap-5 gap-3 pt-4">
             <a href="https://www.facebook.com/profile.php?id=61582641307025" target="_blank"><img src="src/assets/fb.png" class="h-[48px]" alt="" /></a>
-            <img src="src/assets/yt.png" class="h-[48px]" alt="" />
-            <img src="src/assets/insta.png" class="h-[48px]" alt="" />
-            <img
-              src="src/assets/x.png"
-              class="h-[48px] border-2 border-white rounded-full"
-              alt="" />
-            <img src="src/assets/tiktok.png" class="h-[48px]" alt="" />
+            <a href="https://www.youtube.com/@zharpbodyzmultimedia3942" target="_blank"><img src="src/assets/yt.png" class="h-[48px]" alt="" /></a>
+            <a href="https://www.instagram.com/cincodigitalinc/" target="_blank"><img src="src/assets/insta.png" class="h-[48px]" alt="" /></a>
+            <!-- <a href="https://www.facebook.com/profile.php?id=61582641307025" target="_blank"><img src="src/assets/x.png" class="h-[48px] border-2 border-white rounded-full" alt="" /></a> -->
+            <a href="https://www.tiktok.com/@cincodigitalinc?is_from_webapp=1&sender_device=pc" target="_blank"><img src="src/assets/tiktok.png" class="h-[48px]" alt="" /></a>
           </div>
         </div>
       </div>

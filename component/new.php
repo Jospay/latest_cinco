@@ -39,86 +39,57 @@
           <i class="fa-solid fa-chevron-right"></i>
         </button>
       </div>
+
       <div class="owl-carousel owl-0 pt-14">
-        <div class="items py-5">
+
+        <div class="items rounded-xl py-5">
           <div
-            class="item-content-wrap rounded-2xl relative border-5 border-white transition-all duration-200">
+            class="item-content-wrap relative border-5 border-white transition-all duration-200">
             <img
-              src="src/assets/n1.jpg"
-              class="rounded-xl w-full"
+              src="src/assets/left.jpg"
+              class="w-full"
               alt="News Image 5" />
-            <div class="text-center absolute px-3 bottom-3 w-full">
+            <!-- <div class="text-center absolute px-3 bottom-3 w-full">
               <h1
                 class="item-title text-brand-blue px-2 bg-white text-lg/[20px] py-2 rounded-xl transition-all duration-200">
                 Esports & Community <br />Events
               </h1>
-            </div>
+            </div> -->
           </div>
         </div>
 
         <div class="items py-5">
           <div
-            class="item-content-wrap rounded-2xl relative border-5 border-white transition-all duration-200">
+            class="item-content-wrap relative border-5 border-white transition-all duration-200">
             <img
-              src="src/assets/n2.jpg"
-              class="rounded-xl w-full"
+              src="src/assets/center.jpg"
+              class="w-full"
               alt="News Image 5" />
-            <div class="text-center absolute px-3 bottom-3 w-full">
+            <!-- <div class="text-center absolute px-3 bottom-3 w-full">
               <h1
                 class="item-title text-brand-blue px-2 bg-white text-lg/[20px] py-2 rounded-xl transition-all duration-200">
                 Tech & Innovation <br />Trends
               </h1>
-            </div>
+            </div> -->
           </div>
         </div>
 
         <div class="items py-5">
           <div
-            class="item-content-wrap rounded-2xl relative border-5 border-white transition-all duration-200">
+            class="item-content-wrap relative border-5 border-white transition-all duration-200">
             <img
-              src="src/assets/n3.jpg"
-              class="rounded-xl w-full"
+              src="src/assets/right.jpg"
+              class="w-full"
               alt="News Image 5" />
-            <div class="text-center absolute px-3 bottom-3 w-full">
+            <!-- <div class="text-center absolute px-3 bottom-3 w-full">
               <h1
                 class="item-title text-brand-blue px-2 bg-white text-lg/[20px] py-2 rounded-xl transition-all duration-200">
                 Game Development <br />News
               </h1>
-            </div>
+            </div> -->
           </div>
         </div>
 
-        <div class="items py-5">
-          <div
-            class="item-content-wrap rounded-2xl relative border-5 border-white transition-all duration-200">
-            <img
-              src="src/assets/n4.jpg"
-              class="rounded-xl w-full"
-              alt="News Image 5" />
-            <div class="text-center absolute px-3 bottom-3 w-full">
-              <h1
-                class="item-title text-brand-blue px-2 bg-white text-lg/[20px] py-2 rounded-xl transition-all duration-200">
-                Filipino Talent <br />Spotlights
-              </h1>
-            </div>
-          </div>
-        </div>
-
-        <div class="items py-5">
-          <div
-            class="item-content-wrap rounded-2xl relative border-5 border-white transition-all duration-200">
-            <img
-              src="src/assets/n5.jpg"
-              class="rounded-xl w-full"
-              alt="News Image 5" />
-            <div class="text-center absolute px-3 bottom-3 w-full">
-              <h1
-                class="item-title text-brand-blue px-2 bg-white text-lg/[20px] py-2 rounded-xl transition-all duration-200">
-                Developer <br />Vlogs
-              </h1>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
     <!-- End Carousel -->
