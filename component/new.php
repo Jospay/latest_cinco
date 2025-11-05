@@ -25,7 +25,7 @@
     </div>
 
     <!-- Start Carousel -->
-    <div class="relative px-5">
+    <div class="relative px-5 mt-14">
       <div class="absolute top-1/2 start-8 -translate-y-1/2" style="z-index: 5">
         <button
           class="bg-brand-blue text-white bg-left-owl0 rounded-[50%] h-[40px] w-[40px] border-2 border-white opacity-50">
@@ -40,7 +40,7 @@
         </button>
       </div>
 
-      <div class="owl-carousel owl-0 pt-14">
+      <div class="owl-carousel owl-0">
 
         <div class="items rounded-xl py-5">
           <div
